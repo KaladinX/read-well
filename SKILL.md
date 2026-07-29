@@ -1,6 +1,7 @@
 ---
 name: read-well
 description: A writing standard for all prose meant for human readers. Use whenever composing or editing documentation, articles, READMEs, commit messages, emails, summaries, explanations, or any text longer than a sentence. Also use when asked to review, rewrite, or "fix the writing" of existing text.
+version: 1.0.0
 ---
 
 # Read Well
