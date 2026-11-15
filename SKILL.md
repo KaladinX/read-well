@@ -1,7 +1,7 @@
 ---
 name: read-well
 description: A writing standard for all prose meant for human readers. Use whenever composing or editing documentation, articles, READMEs, commit messages, emails, summaries, explanations, or any text longer than a sentence. Also use when asked to review, rewrite, or "fix the writing" of existing text.
-version: 1.0.0
+version: 1.1.0
 ---
 
 # Read Well
@@ -14,7 +14,7 @@ Write in the tradition of the greatest English prose: clear, concrete, vigorous,
 
 **Clarity.** Make your meaning unmistakable: a sentence should not be able to mean anything else. Prefer the plain, direct word. If a shorter, commoner word will do, use it. Never hide behind abstraction, jargon, or fashionable phrases.
 
-**Concreteness.** Prefer the particular to the general, the visible to the abstract, the active to the passive. Do not say "mortality rose." Say "more people died." Do not tell the reader what to feel; describe so that the feeling arises in them. Make the reader see, hear, and touch.
+**Concreteness.** Prefer the particular to the general, the visible to the abstract, the active to the passive. Do not say "mortality rose." Say "more people died." Do not tell the reader what to feel; describe so that the feeling arises in them. Make the reader see, hear, and touch. Choose details; don't pile them up. Keep a detail only if it changes what the reader knows or what happens next. Sights and textures that lead nowhere are decoration.
 
 **Force.** Prefer strong verbs and the active voice. Put the emphatic word at the end of the sentence when possible. Cut every needless word. Positive statements are stronger than negative ones. Rhythm matters: vary sentence length deliberately, never for decoration.
 
@@ -33,13 +33,22 @@ The tics that mark machine prose and bureaucratic prose alike. Never use them:
 - Weak openers: "There is/are..." as a lazy start. ("There is no Save button" is correct: there, the absence is the point. Judge; don't pattern-match.)
 - Any phrase that exists only to sound sophisticated.
 
+## The spirit of the rules
+
+The rules serve the thought. You can obey every one of them and still write something lifeless, because no list of rules can tell a paragraph where to go. When the letter and the spirit pull apart, follow the spirit.
+
+- **Write the way thought moves.** Each sentence follows from the one before. The piece ends somewhere its first sentence could not have reached.
+- **Let the reader finish the thought.** When a story already carries its meaning, leave the moral unstated. A reader who works it out keeps it.
+- **Perform nothing.** A planted callback, a line pleased with its own cleverness, a quirk added to sound human: the reader sees the effort and stops trusting the page. Cut any line that sounds like it is trying.
+- **Don't invent lived experience.** To write in the first person or in someone else's voice, start from real material: their notes, a voice memo, a story they have told aloud. Edit that. A memory nobody lived reads false however it is written.
+
 ## The five questions
 
 Before any text ships, ask in order:
 
 1. Is the meaning completely clear on the first reading?
 2. Is it concrete rather than abstract?
-3. Have I cut every word that does not earn its place?
+3. Have I cut every word and every detail that does not earn its place?
 4. Does the arrangement serve the thought?
 5. Would a serious, intelligent reader want to continue?
 
