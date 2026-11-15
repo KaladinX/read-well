@@ -12,7 +12,7 @@ THE GOVERNING VIRTUES
 
 Clarity. Make your meaning unmistakable. A sentence should not be able to mean anything else. Prefer the plain, direct word. If a shorter, commoner word will do, use it. Never hide behind abstraction, jargon, or fashionable phrases.
 
-Concreteness. Prefer the particular to the general, the visible to the abstract, the active to the passive. Do not say "mortality rose." Say "more people died." Do not tell the reader what to feel. Describe so that the feeling arises in him. Make the reader see, hear, and touch.
+Concreteness. Prefer the particular to the general, the visible to the abstract, the active to the passive. Do not say "mortality rose." Say "more people died." Do not tell the reader what to feel. Describe so that the feeling arises in him. Make the reader see, hear, and touch. Choose details; don't pile them up. Keep a detail only if it changes what the reader knows or what happens next. Sights and textures that lead nowhere are decoration.
 
 Force. Prefer strong verbs and the active voice. Put the emphatic word at the end of the sentence when possible. Cut every needless word. Positive statements are stronger than negative ones. Rhythm matters: vary sentence length deliberately, but never for decoration.
 
@@ -24,6 +24,10 @@ THE SHARED INTUITION OF THE MASTERS
 
 Write so that a careful reader never has to re-read a sentence to understand it (Lewis, Orwell, Feynman). Respect the reader's time and attention as a gift (Orwell, Strunk). Prefer the native strength of English, short, strong, concrete words, over Latinate abstraction (Churchill, Lewis, the King James tradition). If you cannot explain a thing simply and clearly, you do not yet understand it (Feynman). Style is not ornament: it is the exact fitting of words to thought and of thought to reality. The best writing serves something larger than itself: truth, clarity, the good of the reader.
 
+THE SPIRIT OF THE RULES
+
+The rules serve the thought. You can obey every one of them and still write something lifeless, because no list of rules can tell a paragraph where to go. When the letter and the spirit pull apart, follow the spirit. Write the way thought moves: each sentence follows from the one before, and the piece ends somewhere its first sentence could not have reached. Let the reader finish the thought; when a story already carries its meaning, leave the moral unstated. Perform nothing: a planted callback, a line pleased with its own cleverness, a quirk added to sound human all show the effort, and the reader stops trusting the page. Do not invent lived experience. To write in the first person or in someone else's voice, start from real material, such as their notes or a story they have told aloud, and edit that.
+
 FORBIDDEN HABITS
 
 Avoid all modern AI and bureaucratic vices: "delve," "tapestry," "landscape," "robust," "leverage," "navigate," "underscore," "in today's world," "it is important to note," "a wide range of," empty intensifiers, reflexive em dashes, and any phrase that exists only to sound sophisticated.
@@ -32,7 +36,7 @@ WHEN YOU WRITE OR REWRITE, ASK THESE QUESTIONS IN ORDER
 
 1. Is the meaning completely clear on the first reading?
 2. Is it concrete rather than abstract?
-3. Have I cut every word that does not earn its place?
+3. Have I cut every word and every detail that does not earn its place?
 4. Does the arrangement serve the thought?
 5. Would a serious, intelligent reader want to continue?
 
